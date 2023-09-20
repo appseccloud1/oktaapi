@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 const oktaApiUrl = 'https://dev-492185.okta.com';
-const apiKey = '00sk09yur49esaeH87VoX_OqYj9p9MJDaNRqHF_VK1'; // Use environment variables for sensitive data
+const apiKey = 'xxxxx'; // Use environment variables for sensitive data
 const groupId = '00g2444n5gRcr3wYT357';
 
 // Get all users in the group
