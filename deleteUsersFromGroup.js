@@ -45,7 +45,7 @@ async function getGroupMembers() {
         //console.log(member.id);
         await removeUserFromGroup(member.id);
       }
-  
+     // LOG. 
       console.log('All users removed from the group.');
     } catch (error) {
       console.error('Script error:', error);
